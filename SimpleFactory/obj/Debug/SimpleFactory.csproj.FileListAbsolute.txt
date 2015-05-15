@@ -1,0 +1,6 @@
+d:\study\DesignPatternStudy\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+d:\study\DesignPatternStudy\SimpleFactory\bin\Debug\SimpleFactory.exe
+d:\study\DesignPatternStudy\SimpleFactory\bin\Debug\SimpleFactory.pdb
+d:\study\DesignPatternStudy\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+d:\study\DesignPatternStudy\SimpleFactory\obj\Debug\SimpleFactory.exe
+d:\study\DesignPatternStudy\SimpleFactory\obj\Debug\SimpleFactory.pdb
