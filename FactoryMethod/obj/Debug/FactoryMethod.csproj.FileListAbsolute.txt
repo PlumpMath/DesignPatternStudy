@@ -3,3 +3,4 @@ d:\study\DesignPatternStudy\FactoryMethod\bin\Debug\FactoryMethod.exe
 d:\study\DesignPatternStudy\FactoryMethod\bin\Debug\FactoryMethod.pdb
 d:\study\DesignPatternStudy\FactoryMethod\obj\Debug\FactoryMethod.exe
 d:\study\DesignPatternStudy\FactoryMethod\obj\Debug\FactoryMethod.pdb
+d:\study\DesignPatternStudy\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
